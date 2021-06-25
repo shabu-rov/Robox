@@ -6,8 +6,8 @@
 
 ℹ️ Подробнее о работе с платформой можно узнать в [Wiki](https://github.com/shabu-rov/Robox/wiki)
 
-ℹ️ [Инструкции для Ubuntu 16.04](https://github.com/shabu-rov/Robox/wiki/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8-Ubuntu-16.04)
+ℹ️ [Инструкции по установке и работе на Ubuntu 16.04](https://github.com/shabu-rov/Robox/wiki/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8-Ubuntu-16.04)
 
-ℹ️ [Инструкции для Windows](https://github.com/shabu-rov/Robox/wiki/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8-Windows)
+ℹ️ [Инструкции по установке и работе на Windows](https://github.com/shabu-rov/Robox/wiki/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8-Windows)
 
-ℹ️ [Приложение для тестирования](https://github.com/shabu-rov/TestDevices/wiki)
+ℹ️ [Приложение для тестирования оборудования и проверки связи](https://github.com/shabu-rov/TestDevices/wiki)
